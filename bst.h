@@ -358,7 +358,6 @@ bool Node<T>::isFull() const {
 
 template <class T>
 T Node<T>::ancestor(T val) const {
-	//TO DO
 	return T();
 }
 
